@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+sqlalchemy
+pymysql
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+chromadb
+sentence-transformers
